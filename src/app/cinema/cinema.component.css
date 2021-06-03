@@ -1,0 +1,10 @@
+.clickable{
+    cursor: pointer;
+}
+.margin{
+    margin: 5px;
+    width: 40px;
+}
+.violet{
+color: rgb(193, 167, 218);
+}
